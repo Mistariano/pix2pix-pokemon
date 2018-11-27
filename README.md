@@ -20,15 +20,15 @@ You can find its Torch implementation in [this repo](), and another Keras versio
 
 Input X
 
-[!image text](https://raw.githubusercontent.com/Mistariano/pix2pix-pokemon/master/results/x.JPG)
+![image text](https://raw.githubusercontent.com/Mistariano/pix2pix-pokemon/master/results/x.JPG)
 
 Ground Truth Y
 
-[!image](results/y.JPG)
+![image](results/y.JPG)
 
 Output G(Z, X; theta), where G is the generator network and Z is the noise vector
 
-[!image](results/gz.JPG)
+![image](results/gz.JPG)
 
 More results is coming soon, stay tuned...
 
