@@ -16,9 +16,24 @@ You can find its Torch implementation in [this repo](), and another Keras versio
 
 ## Results
 
-Stay tuned...
+(unfinished)
+
+Input X
+
+[!image](results/x.JPG)
+
+Ground Truth Y
+
+[!image](results/y.JPG)
+
+Output G(Z, X; theta), where G is the generator network and Z is the noise vector
+
+[!image](results/gz.JPG)
+
+More results is coming soon, stay tuned...
 
 ## Installation
+
 
 ## Training
 
