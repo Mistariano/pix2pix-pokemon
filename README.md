@@ -20,7 +20,7 @@ You can find its Torch implementation in [this repo](), and another Keras versio
 
 Input X
 
-[!image](results/x.JPG)
+[!image](https://raw.githubusercontent.com/Mistariano/pix2pix-pokemon/master/results/x.JPG)
 
 Ground Truth Y
 
